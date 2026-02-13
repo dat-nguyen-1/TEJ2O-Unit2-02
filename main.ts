@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Dat Nguyen
+ * Created on: Feb 202
+ * This program shows "Hello, MTHS!"
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, MTHS!')
